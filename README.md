@@ -3,7 +3,7 @@ This repository documents what I learned while practicing help desk and system a
 
 ## 📘 About This Course
 
-I completed a practical IT fundamentals course designed to prepare me for entry-level Help Desk and IT support roles. Through over 7 hours of hands-on labs, I gained real-world experience with computer hardware, operating systems, networking, and remote support.  
+I completed a practical IT fundamentals course designed to prepare me for entry-level Help Desk and IT support roles. Through hands-on labs, I gained real-world experience with computer hardware, operating systems, networking, and remote support.  
 
 I learned how modern computers work at a low level, how to troubleshoot and repair desktops and laptops, and how to install, configure, and administer both Windows and Linux systems. I also practiced virtualization, ticketing systems, and essential IT security practices.  
 
