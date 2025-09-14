@@ -3,7 +3,7 @@
 For my final project, I built a small enterprise-style environment using **Windows Server 2022** and a Windows 11 client VM.  
 
 ### 🔹 What I Did
-- Set up a Windows Server as a **Domain Controller** with Active Directory Domain Services.  
+- Set up a Windows Server as a **Domain Controller** with Active Directory Domain Services on Azure  
 - Configured **static IP addressing** and DNS for both server and client.  
 - Joined a Windows client machine to the domain.  
 - Created and managed **domain users, groups, and organizational units (OUs)**.  
