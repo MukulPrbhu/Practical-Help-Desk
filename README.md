@@ -14,7 +14,7 @@ The course wrapped up with a capstone project where I set up and administered a 
 - Windows 10/11, Windows Server 2022  
 - Ubuntu Linux  
 - Oracle VirtualBox  
-- Azure Active Directory, Oracle Free Cloud (VPN)  
+- Azure Active Directory, Oracle Free Cloud (VPN), Docker  
 - Event Viewer, lusrmgr.msc  
 - OpenSSH, UFW firewall  
 - ipconfig, nslookup, netstat, traceroute, ping, arp
