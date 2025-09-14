@@ -9,7 +9,7 @@ For my final project, I built a small enterprise-style environment using **Windo
 - Created and managed **domain users, groups, and organizational units (OUs)**.  
 - Applied and tested **Group Policies** to control security and user access.  
 - Explored **password policies** and authentication logs to simulate real IT support tasks.
-- Password resest for users  
+- Password reset for users  
 
 ### 🔹 Key Skills Gained
 - Hands-on experience with **Active Directory** in a lab environment.  
