@@ -11,8 +11,8 @@ The course wrapped up with a capstone project where I set up and administered a 
 
 
 ## 🛠 Tools Used
-- Windows 10/11, Windows Server 2022  
-- Ubuntu Linux  
+- Windows 10/11, Windows Server 2022, Ubuntu Linux  
+- Azure  
 - Oracle VirtualBox  
 - Azure Active Directory, Oracle Free Cloud (VPN), Docker  
 - Event Viewer, lusrmgr.msc  
